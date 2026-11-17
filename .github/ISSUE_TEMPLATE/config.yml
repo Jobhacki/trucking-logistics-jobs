@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Talk to us on the JobHacki Discord"
+    url: "https://discord.gg/RApjXmgnwA"
+    about: "Questions about the lists, or chat with other job seekers."
+  - name: "JobHacki job directory"
+    url: "https://jobhacki.com"
+    about: "The full JobHacki job directory."

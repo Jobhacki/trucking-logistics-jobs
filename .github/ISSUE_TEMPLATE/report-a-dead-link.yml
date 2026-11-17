@@ -1,0 +1,37 @@
+name: "Report a dead link"
+description: "Tell us about a listing in the Trucking and logistics jobs list that no longer works"
+title: "[Dead link] "
+body:
+  - type: input
+    id: link
+    attributes:
+      label: "Link that no longer works"
+      description: "The apply link as shown in the list."
+      placeholder: "https://"
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: "Job title and employer"
+      description: "As shown in the list."
+    validations:
+      required: true
+  - type: dropdown
+    id: what
+    attributes:
+      label: "What do you see?"
+      options:
+        - "The page says the job was not found (404)"
+        - "The posting is marked filled or closed"
+        - "The link goes to a different job or page"
+        - "Other"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Anything else"
+      description: "Include the driving or logistics role title, employer, link, and whether the posting is missing or filled."
+    validations:
+      required: false

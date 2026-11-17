@@ -1,0 +1,48 @@
+name: "Add a job"
+description: "Suggest a job for the Trucking and logistics jobs list"
+title: "[Add a job] "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: "Job title"
+      description: "The exact title on the employer's posting."
+    validations:
+      required: true
+  - type: input
+    id: employer
+    attributes:
+      label: "Employer"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: "Apply link"
+      description: "The link to the employer's own career page or hiring system. Include the exact role title, employer's own apply link, location, and any stated license or shift requirement."
+      placeholder: "https://"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: "Location"
+      description: "City and state, or remote."
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Anything else"
+      description: "Optional."
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: "Before you send"
+      options:
+        - label: "The link opens the employer's own posting, not a job aggregator or a tracking link."
+          required: true
+        - label: "I am not including personal data about anyone."
+          required: true
