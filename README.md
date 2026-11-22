@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>19,964</h3><sub>open trucking and logistics jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>19,472</h3><sub>open trucking and logistics jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 04:17 UTC</sub>
+<sub>Snapshot 2026-11-22 08:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 
 ## Open jobs
 
-**19,964 open trucking and logistics jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**19,472 open trucking and logistics jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -82,9 +82,15 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 | Lead Warehouse Worker - Replenishment Outbound - Nights | Target | 300 Creekview Ave, Bldg H, Logan Township,NJ 08085-2597 |  | 2026-11-21 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/300-Creekview-Ave-Bldg-H-Logan-TownshipNJ-08085-2597/Lead-Warehouse-Worker---Replenishment-Outbound---Nights_R0000453091) |
 | Courier I | Labcorp | Miami FL |  | 2026-11-21 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Miami-FL/Courier-I_2638987) |
 | Courtesy Driver | Avera Health | Sioux Falls, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Sioux-Falls-SD/Courtesy-Driver_R-260032022-1) |
+| Transit Full-Time Driver Floater Broken Bow-Idabel | LIFT Community Action Agency, Inc. | Broken Bow, OK, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/liftca/job/oP58Afwm) |
+| Warehouse Associate Mon-Fri 8am-4:30pm | VRC Companies Careers | Newport News, VA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681887) |
+| Warehouse Associate - M-F 8a-5p | Pisces Healthcare Solutions | Fort Myers, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684337) |
+| Part-Time Local Delivery Driver (Non-CDL) | Painters Supply and Equipment Co. | Warwick, RI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682447) |
+| Tire Pickup & Delivery Driver (Non-CDL) $21 - $23 + Sign-On Bonus | Purcell Tire & Rubber Company | PHOENIX, AZ |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679830) |
+| Delivery Driver (2 PM - 10 PM) | Sona Health, Inc. | Asheville, NC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674797) |
+| Delivery and Warehouse Associate | Gabriella White | Pelham, AL, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=50ebad87-fc82-464e-91d1-fa1244aeb526&ccId=19000101_000001&jobId=614256&lang=en_US&source=CC2) |
 | Warehouse Technician | Bluegrass Supply Chain Services | Edmonton, KY |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4318072) |
 | Warehouse Team Lead - PM Shift | Bluegrass Supply Chain Services | Findlay, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683619) |
-| Warehouse Attendant- Warehouse & Distribution- Full Time | Ocean Casino Resort | Atlantic City, New Jersey, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/3D8302C2CB) |
 | Shipping Clerk 3rd Shift | Pilgrim's | Broadway, VA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jbs/job/oMa8Afwo) |
 | SHIPPING SUPERVISOR | Pilgrim's | Cold Spring, MN, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jbs/job/ovk8Afwh) |
 | SPED CDL Bus Driver - IDEA Palmview (Immediate Opening) | IDEA Public Schools | Mission, TX, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/ideapublicschools-english/job/oO58Afwl) |
@@ -102,9 +108,6 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 | Delivery Driver III CDL/Hazmat | Sherwin-Williams | Bossier City, LA, United States |  | 2026-11-20 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629763) |
 | Shipping and Receiving Clerk | Ipsen International Inc | Souderton, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668558) |
 | Warehouse Clerical Associate | Coker Tire Company | Chattanooga, TN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683020) |
-| Cookie Delivery Driver | insomniacookies | Burlington VT |  | 2026-11-20 | [Apply](https://jobs.lever.co/insomniacookies/0c5f8298-2902-4159-a489-362f0d02c3d3) |
-| Car Delivery Driver | insomniacookies | Chicago IL (Taylor St.) |  | 2026-11-20 | [Apply](https://jobs.lever.co/insomniacookies/caf30146-e3a5-4188-94ce-df9c32df52cd) |
-| Bike Delivery Driver | insomniacookies | New Orleans LA |  | 2026-11-20 | [Apply](https://jobs.lever.co/insomniacookies/32de5d13-82d0-42b5-8256-20cf5b1e3367) |
 | Warehouse Operator - 2nd Shift | Sharp Business Management Inc | Cleveland, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3791732) |
 | Shipping Manager | Livetrends Design Group LLC | Umatilla, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4567116) |
 | Class A Driver - NO NIGHTS OR WEEKENDS! | All Star Rents | San Pablo, CA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684294) |
@@ -202,9 +205,6 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 | Class A CDL Driver | triumvirateenvironmental | Savannah, GA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/triumvirateenvironmental/jobs/4729791006) |
 | Class A CDL Driver | triumvirateenvironmental | Casa Grande, AZ |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/triumvirateenvironmental/jobs/4729212006) |
 | Global Logistics Specialist (Hamel, MN or Georgetown, TX) | Loram1 | Hamel, MN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990016993616) |
-| Warehouse Driver - Dublin | icee | Dublin, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/icee/jobs/5490017008) |
-| Heavy Equipment CDL Driver | equipmentsharecom | Osceola, AR |  | 2026-11-20 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8404051) |
-| Heavy Equipment CDL Driver | equipmentsharecom | Savannah, GA |  | 2026-11-20 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8402828) |
 <!-- JOBS_TABLE_END -->
 
 <details>
