@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>21,641</h3><sub>open trucking and logistics jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>21,894</h3><sub>open trucking and logistics jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 16:18 UTC</sub>
+<sub>Snapshot 2026-11-25 20:18 UTC</sub>
 
 </div>
 
@@ -50,18 +50,69 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 
 ## Open jobs
 
-**21,641 open trucking and logistics jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 16:18 UTC.** Apply links go to the employer's career page or hiring system.
+**21,894 open trucking and logistics jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 20:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Ready for a Local Route? CDL-A Drivers Wanted in Salt Lake City | 4th Day Trucking | Murray, UT |  | 2026-11-25 | [Apply](https://4th-day-trucking.breezy.hr/p/9e321b374c4b-ready-for-a-local-route-cdl-a-drivers-wanted-in-salt-lake-city) |
-| Local position / CDL-A drivers wanted | 4th Day Trucking | Indianapolis, IN |  | 2026-11-25 | [Apply](https://4th-day-trucking.breezy.hr/p/fadbfd00a448-local-position-cdl-a-drivers-wanted) |
-| Local Reefer Driver / 5 Nights a Week / Home Every Day | 4th Day Trucking | Commerce City, CO |  | 2026-11-25 | [Apply](https://4th-day-trucking.breezy.hr/p/c69d6190e95d-local-reefer-driver-5-nights-a-week-home-every-day) |
-| Warehouse Associate | Echelon Supply and Service | Pineville, NC, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=aa2c0e46-553a-4570-b8d5-38989e8e0332&ccId=19000101_000001&jobId=605932&lang=en_US&source=CC2) |
-| Store Driver | advanceauto | 2247 Main St E, Snellville, GA 30078 |  | 2026-11-25 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/2247-Main-St-E-Snellville-GA-30078/Store-Driver_R-0620738) |
-| Store Driver | advanceauto | 9456 Chamberlayne Rd, Mechanicsville, VA 23116 |  | 2026-11-25 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/9456-Chamberlayne-Rd-Mechanicsville-VA-23116/Store-Driver_R-0620743) |
-| Store Driver | advanceauto | 710 10th St, Lake Park, FL 33403 |  | 2026-11-25 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/710-10th-St-Lake-Park-FL-33403/Store-Driver_R-0620744) |
+| Delivery Driver | Farmers Home Furniture | SANDERSVILLE, GA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681006) |
+| Delivery Driver | Farmers Home Furniture | CAYCE, SC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684825) |
+| Delivery Driver | Farmers Home Furniture | LAURENS, SC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684822) |
+| SW: Kohl's CDL-A Yard Jockey – $28/Hour + No Unloading | Accent It | Blue Spring, MO |  | 2026-11-25 | [Apply](https://accentit.breezy.hr/p/09a41893c3f9-sw-kohl-s-cdl-a-yard-jockey-28-hour-no-unloading) |
+| SW: CDL-A Local Truck Driver – $18.71 Per Stop + Hourly Pay | Accent It | Montebello, CA |  | 2026-11-25 | [Apply](https://accentit.breezy.hr/p/833c743c1142-sw-cdl-a-local-truck-driver-18-71-per-stop-hourly-pay) |
+| SW: CDL-A Local KROGER Driver – Hourly Pay + Stop Pay + 2 Days Off! | Accent It | Tolleson, AZ |  | 2026-11-25 | [Apply](https://accentit.breezy.hr/p/78ec2cf690a8-sw-cdl-a-local-kroger-driver-hourly-pay-stop-pay-2-days-off) |
+| SW:KROGER CDL-A Local Driver – Up to $1,400 Weekly + Stop Pay | 4th Day Trucking | Phoenix, AZ |  | 2026-11-25 | [Apply](https://4th-day-trucking.breezy.hr/p/acc53a6abf99-sw-kroger-cdl-a-local-driver-up-to-1-400-weekly-stop-pay) |
+| SW:CDL-A Local Yard Driver – $28/Hour / Blue Springs, MO | 4th Day Trucking | Blue Spring, MO |  | 2026-11-25 | [Apply](https://4th-day-trucking.breezy.hr/p/5a37a7e7fee6-sw-cdl-a-local-yard-driver-28-hour-blue-springs-mo) |
+| SW: CDL-A Local Driver – $18/ hours + 2 DAYS OFF + STOP PAY / KROGER | 4th Day Trucking | Tolleson, AZ |  | 2026-11-25 | [Apply](https://4th-day-trucking.breezy.hr/p/cd8ebca78aba-sw-cdl-a-local-driver-18-hours-2-days-off-stop-pay-kroger) |
+| CDL A Driver | LLC | Moses Lake, Moses Lake, WA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c281f048-70b0-4626-a440-29ca20d2df98&ccId=19000101_000001&jobId=1012050&lang=en_US&source=CC2) |
+| Hazmat Driver | LLC | Reno, NV, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c281f048-70b0-4626-a440-29ca20d2df98&ccId=19000101_000001&jobId=1012145&lang=en_US&source=CC2) |
+| Store Driver | advanceauto | 609 East Main St Suite L, Purcellville, VA 20132 |  | 2026-11-25 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/609-East-Main-St-Suite-L-Purcellville-VA--20132/Store-Driver_R-0620781) |
+| Store Driver | advanceauto | 110 N Vine St, Urbana, IL 61802 |  | 2026-11-25 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/110-N-Vine-St-Urbana-IL-61802/Store-Driver_R-0620787-1) |
+| Store Driver | advanceauto | 2302 Asheville Hwy, Hendersonville, NC 28791 |  | 2026-11-25 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/2302-Asheville-Hwy-Hendersonville-NC-28791/Store-Driver_R-0620791-1) |
+| Warehouse Manager | troc | Darien, IL 60561 |  | 2026-11-25 | [Apply](https://troc.wd501.myworkdayjobs.com/en-US/troc_external/job/Darien-IL-60561/Warehouse-Manager_JR102371) |
+| Warehouse Agent | allianceground | Newark, NJ |  | 2026-11-25 | [Apply](https://allianceground.wd1.myworkdayjobs.com/en-US/agi_careers/job/Newark-NJ/Warehouse-Agent_R-112580-1) |
+| Warehouse Team Lead - 2nd Shift | varsitybrands | IN - Indianapolis |  | 2026-11-25 | [Apply](https://varsitybrands.wd503.myworkdayjobs.com/en-US/externalcareersite/job/IN---Indianapolis/Warehouse-Team-Lead---2nd-Shift_JR115716) |
+| Spotlight Events CDL-B Box Truck Driver | varsitybrands | IA - Des Moines |  | 2026-11-25 | [Apply](https://varsitybrands.wd503.myworkdayjobs.com/en-US/externalcareersite/job/IA---Des-Moines/Spotlight-Events-CDL-B-Box-Truck-Driver_JR115715) |
+| Spotlight Events CDL-B Box Truck Driver | varsitybrands | CA - Los Alamitos |  | 2026-11-25 | [Apply](https://varsitybrands.wd503.myworkdayjobs.com/en-US/externalcareersite/job/CA---Los-Alamitos/Spotlight-Events-CDL-B-Box-Truck-Driver_JR115714) |
+| Warehouse Shift Supervisor | canadiansolar | Mesquite, TX |  | 2026-11-25 | [Apply](https://canadiansolar.wd5.myworkdayjobs.com/en-US/canadiansolar/job/Mesquite-TX/Warehouse-Shift-Supervisor_10001611) |
+| Driver U104-2 | breakthru | Phoenix AZ USA |  | 2026-11-25 | [Apply](https://breakthru.wd5.myworkdayjobs.com/en-US/bbg-us/job/Phoenix-AZ-USA/Driver-U104-2_R0044657) |
+| Warehouse I | atd | Denver, CO |  | 2026-11-25 | [Apply](https://atd.wd1.myworkdayjobs.com/en-US/american_tire_distributors/job/Denver-CO/Warehouse-I_R36777) |
+| Warehouse Clerk 2nd Shift - 2:30pm - 11pm M - F | georgfischer | Lakeville, Minnesota |  | 2026-11-25 | [Apply](https://georgfischer.wd103.myworkdayjobs.com/en-US/georgfischer_careers/job/Lakeville-Minnesota/Warehouse-Clerk-2nd-Shift---2-30pm---11pm-M---F_JR11839) |
+| Dispatcher | copart | Wayland, MI |  | 2026-11-25 | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Wayland-MI/Dispatcher_JR112051) |
+| Order Picker Warehouse Associate | bannerhealth | Banner Health Corp Chandler (7300 W Detroit St) |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Banner-Health-Corp-Chandler-7300-W-Detroit-St/Order-Picker-Warehouse-Associate_R4462169) |
+| Warehouse Fulfillment Specialists Part Time | bjswholesaleclub | Freeport, NY #0136 |  | 2026-11-25 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Freeport-NY-0136/Warehouse-Fulfillment-Specialists-Part-Time_R263512) |
+| Overnight Forklift Driver Part Time | bjswholesaleclub | Mechanicsville, VA #0139 |  | 2026-11-25 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Mechanicsville-VA-0139/Overnight-Forklift-Driver-Full-Time_R261229-1) |
+| Forklift Driver Part Time | bjswholesaleclub | Westbury, NY #0112 |  | 2026-11-25 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Westbury-NY-0112/Forklift-Driver-Part-Time_R262464) |
+| Warehouse Team Lead, Full-Time | basspro | Tualatin, OR |  | 2026-11-25 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Tualatin-OR/Warehouse-Team-Lead--Full-Time_R272791-1) |
+| ELDS Warehouse Internal Logistics Operator 2nd shift | abb | USA, NC, Mebane |  | 2026-11-25 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Mebane/ELDS-Warehouse-Internal-Logistics-Operator-2nd-shift_JR00054816) |
+| ELDS Warehouse Internal Logistics Operator 2nd shift | abb | USA, NC, Mebane |  | 2026-11-25 | [Apply](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Mebane/ELDS-Warehouse-Internal-Logistics-Operator-2nd-shift_JR00054815) |
+| (USA) 2nd Shift Shipping and Receiving Coordinator, Central Fill, Health and We... | Walmart | (USA) AZ LITCHFIELD PARK 02489 WM ON CAMPUS/RX FACILITIES |  | 2026-11-25 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AZ-LITCHFIELD-PARK-02489-WM-ON-CAMPUSRX-FACILITIES/XMLNAME--USA--2nd-Shift-Shipping-and-Receiving-Coordinator--Central-Fill--Health-and-Wellness-Central-Operations---Health-and-Wellness--B-rotation-_R-2720417) |
+| (USA) 2nd Shift Shipping and Receiving Coordinator, Central Fill, Health and We... | Walmart | (USA) AZ LITCHFIELD PARK 02489 WM ON CAMPUS/RX FACILITIES |  | 2026-11-25 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-AZ-LITCHFIELD-PARK-02489-WM-ON-CAMPUSRX-FACILITIES/XMLNAME--USA--2nd-Shift-Shipping-and-Receiving-Coordinator--Central-Fill--Health-and-Wellness-Central-Operations---Health-and-Wellness--B-rotation-_R-2720434) |
+| Shipping Coordinator - MRD Express | twistbioscience | USA - South San Francisco, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/twistbioscience/jobs/8382945) |
+| Shipping Coordinator | twistbioscience | USA - South San Francisco, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/twistbioscience/jobs/8402721) |
+| Shipping Coordinator | twistbioscience | USA - Portland, OR |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/twistbioscience/jobs/8382947) |
+| CDL A Driver | TOMRA | Rochester, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Tomra/744000163724372) |
+| Transportation Coordinator (Driver) | SpectrumRetirementCommunities | Ellisville, MO, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/SpectrumRetirementCommunities/3743990017093526) |
+| Warehouse Associate/Branch Driver I | REXEL | Vancouver, WA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/REXEL1/744000163728599) |
+| Branch Driver I | REXEL | Seattle, WA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/REXEL1/744000163734839) |
+| Warehouse Route Driver | REXEL | Denver, CO, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/REXEL1/744000163750559) |
+| Warehouse Loader (Part Time) | RedBull | Louisville, KY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163756200) |
+| Warehouse Supervisor | nordicnaturals | Watsonville, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/nordicnaturals/jobs/4524083009) |
+| Warehouse Logistics Team Lead | nebius | Pennsylvania, United States |  | 2026-11-25 | [Apply](https://careers.nebius.com/?gh_jid=5019636101) |
+| Warehouse Supervisor | PS Logistics | Roanoke, VA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/PSLogistics/744000163739699) |
+| Warehouse Driver - Tacoma | icee | Tacoma, Washington |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/icee/jobs/5494499008) |
+| Route Sales Driver | icee | Salem, NH |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/icee/jobs/5494657008) |
+| Delivery Driver(06797) | Domino's | Floresville, TX, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163727591) |
+| Delivery Driver(03677) - 3025 3rd Avenue | Domino's | Bronx, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163730940) |
+| Delivery Driver(03441) - 189 South Highland Avenue | Domino's | Ossining, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163733469) |
+| Warehouse Associate | Eataly North America | Santa Clara, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Eataly/744000163734334) |
+| Warehouse - Fulfillment Associate | equipmentsharecom | Columbia, MO (Headquarters) |  | 2026-11-25 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8401993) |
+| Warehouse - Fulfillment Associate | equipmentsharecom | Columbia, MO (Headquarters) |  | 2026-11-25 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8398962) |
+| CDL Class A Driver | CornerstoneBuildingBrandsCareers | Horseshoe Beach, FL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990017090946) |
+| Class A CDL Driver | CornerstoneBuildingBrandsCareers | Rogers, MN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990017091596) |
+| Class A CDL Driver | CornerstoneBuildingBrandsCareers | Minneapolis, MN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990017091696) |
+| Delivery Driver/Warehouse | Bosch-HomeComfort | Savannah, GA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Bosch-HomeComfort/744000163737709) |
+| Junk Route Sales Driver | 1800gotjunk | Austin, Texas |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/1800gotjunk/jobs/4523936009) |
 | Field Operations Dispatcher | canalbarge | Sulphur, LA |  | 2026-11-25 | [Apply](https://canalbarge.wd5.myworkdayjobs.com/en-US/cbc/job/Sulphur-LA/Field-Operations-Dispatcher_R830-2) |
 | Truck Driver | allianceground | Orlando, FL |  | 2026-11-25 | [Apply](https://allianceground.wd1.myworkdayjobs.com/en-US/agi_careers/job/Orlando-FL/Truck-Driver_R-112675) |
 | Dispatcher | werner | Anderson, SC - LOC169 |  | 2026-11-25 | [Apply](https://werner.wd501.myworkdayjobs.com/en-US/werner/job/Anderson-SC---LOC169/Dispatcher_JR23914) |
@@ -77,8 +128,6 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 | 007242-Ready Mix Driver II | heidelbergmaterials | Griffin, GA |  | 2026-11-25 | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Griffin-GA/XMLNAME-007242-Ready-Mix-Driver-II_JR10020468) |
 | 007241-Ready Mix Driver I | heidelbergmaterials | Montevallo, AL |  | 2026-11-25 | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Montevallo-AL/XMLNAME-007241-Ready-Mix-Driver-I_JR10020467-1) |
 | Shuttle Truck Driver - CDL A | amcor | RPSNA Madisonville KY |  | 2026-11-25 | [Apply](https://amcor.wd5.myworkdayjobs.com/en-US/amcor_external_career_site/job/RPSNA-Madisonville-KY/Shuttle-Truck-Driver---CDL-A_REQ_97717) |
-| Warehouse Fulfillment Specialists Part Time | bjswholesaleclub | Deer Park, NY #0359 |  | 2026-11-25 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Deer-Park-NY-0359/Warehouse-Fulfillment-Specialists-Part-Time_R262540) |
-| Warehouse Fulfillment Specialists Part Time | bjswholesaleclub | Westbury, NY #0112 |  | 2026-11-25 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Westbury-NY-0112/Warehouse-Fulfillment-Specialists-Part-Time_R262469) |
 | Driver, Long Term Care (LTC) - PRN | Sanford Health | IA, Indianola |  | 2026-11-25 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/IA-Indianola/Driver--Long-Term-Care--LTC----PRN_R-0281678) |
 | Seasonal Warehouse Associate- A Shift (Tues-Fri 5AM-3:30PM) - Nordstrom Store S... | Nordstrom | Edison, NJ |  | 2026-11-25 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Edison-NJ/Seasonal-Warehouse-Associate--A-Shift--Tues-Fri-5AM-3-30PM----Nordstrom-Store-Staging-Area_R-900926) |
 | Seasonal Warehouse Associate- B Shift (Tues-Fri 4PM-2:30AM) - Nordstrom Store S... | Nordstrom | Edison, NJ |  | 2026-11-25 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Edison-NJ/Seasonal-Warehouse-Associate--B-Shift--Tues-Fri-4PM-2-30AM----Nordstrom-Store-Staging-Area_R-900931) |
@@ -94,28 +143,23 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 | Dedicated Route Driver - $10k SIGN ON BONUS! | hoodhp | Portland, Maine |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/hoodhp/jobs/5494369008) |
 | Delivery Driver | greenthumbindustries | Cottage Grove, Minnesota, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/greenthumbindustries/jobs/8360226) |
 | District CDL Delivery Driver | equipmentsharecom | Seattle, WA |  | 2026-11-25 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8415738) |
-| Delivery Driver | equipmentsharecom | Tulsa, OK (Tooling Solutions) |  | 2026-11-25 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8415831) |
-| Delivery Driver(02964) - 147 E Bethalto | Domino's | Bethalto, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163689919) |
-| Delivery Driver(02929) - 304 E Hwy 50 | Domino's | O'Fallon, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163689864) |
-| Delivery Driver(02931) - 1900 North Belt East | Domino's | Belleville, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163691099) |
 | Warehouse / Stock Clerk - 1 (Job 1527) | dlhcorporation | Norfolk, Virginia |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/dlhcorporation/jobs/5298613007) |
-| CDL Class A Driver | CornerstoneBuildingBrandsCareers | Orwigsburg, PA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990017088486) |
-| CDL Class A Driver | CornerstoneBuildingBrandsCareers | Orwigsburg, PA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990017088536) |
 | Shipping Clerk | Astronics | Redmond, Washington, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4519158009) |
 | Delivery Driver | Sherwin-Williams | Superior, WI, United States |  | 2026-11-25 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2630034) |
-| CR- CDL-A DOLLAR TREE Driver – $29–$31/Hour + Home Weekly | Accent It | Portland, OR |  | 2026-11-25 | [Apply](https://accentit.breezy.hr/p/1c7593a0dcb1-cr-cdl-a-dollar-tree-driver-29-31-hour-home-weekly) |
-| CR -CDL-A Dedicated Dry Van Driver – Up to $31 Hourly Pay + BONUS | Accent It | Eugene, OR |  | 2026-11-25 | [Apply](https://accentit.breezy.hr/p/53a4c9bc9b31-cr-cdl-a-dedicated-dry-van-driver-up-to-31-hourly-pay-bonus) |
-| CDL-A DRIVER FOR REGIONAL LANE JOB | Accent It | MIDLAND, WA |  | 2026-11-25 | [Apply](https://accentit.breezy.hr/p/59e4d69b1c82-cdl-a-driver-for-regional-lane-job) |
 | General Warehouse - 2nd Shift | CVS Health | RI - North Smithfield |  | 2026-11-25 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---North-Smithfield/General-Warehouse---2nd-Shift_R1114599) |
 | Business Process Owner (BPO) - Inventory & Logistics ERP (1-Year Temporary Posi... | Avery Dennison | Syracuse, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000163649632) |
 | Warehouse Pickers | AlphabeInsightInc | Peoria, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163618899) |
+| Driver 9am-1pm $18-20.50 (Part Time) | The Princeton Senior Living | Lee's Summit, MO, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/township/job/oI09Bfwc) |
+| Transport Driver | Parkland US People Corp | Medley, FL, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/parkland/job/oTY9Bfwl) |
+| Van Driver | Estrella of Cascadia, LLC | Phoenix, AZ |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691916) |
+| Bilingual Warehouse Supervisor - Nights | Piggly Wiggly Alabama Distributing Inc | Bessemer, AL |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692737) |
+| Truck Driver CDL | DanHil Containers | Temple, TX |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692602) |
+| Crew Leader - Shipping (York, SC) | ADP employer c21fbcfb | York, SC, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c21fbcfb-994b-4c7a-8ab0-2c20bd60bcdd&ccId=19000101_000001&jobId=590643&lang=en_US&source=CC2) |
+| Summer 2027 Internship - Logistics & Distribution | Bell & Evans | Fredericksburg, PA, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bc043f0c-d219-42e0-b26f-21659ab74e5f&ccId=19000101_000001&jobId=580003&lang=en_US&source=CC2) |
 | Zingerman’s Mail Order Night Shift Seasonal Holiday Warehouse Crew | Zingerman's | Ann Arbor, MI |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689579) |
 | Delivery Driver | American Equipment HR LLC | Elko, NV |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692508) |
 | Warehouse Coordinator - 1st Shift- 5:00am - 3:30pm - Monday - Thursday | Allen Distribution | Carlisle, PA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692134) |
 | Warehouse Coordinator - 2nd Shift- 4:00pm - 2:30am - Monday - Thursday | Allen Distribution | Carlisle, PA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692155) |
-| CDL DRIVER | ADP employer b56093c8 | Pleasant Valley, Salt Point, NY, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b56093c8-c053-4bee-852b-55ccb506cc6a&ccId=19000101_000001&jobId=560301&lang=en_US&source=CC2) |
-| CDL DRIVER | ADP employer b56093c8 | High Falls, High Falls, NY, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b56093c8-c053-4bee-852b-55ccb506cc6a&ccId=19000101_000001&jobId=560302&lang=en_US&source=CC2) |
-| Delivery Driver | MLD | Salt Lake City, UT, Salt Lake City, UT, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a86d9f1a-be75-4920-b71e-1bd11c0fd380&ccId=19000101_000001&jobId=968914&lang=en_US&source=CC2) |
 | Temporary Driver, Part-Time | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-24 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=990897&lang=en) |
 | Warehouse and Delivery Associate - Columbus, OH | Rheem | Columbus, OH, United States |  | 2026-11-24 | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4635) |
 | Shipping & Receiving Clerk | Howmet Aerospace | Branford, CT, United States |  | 2026-11-24 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120639) |
@@ -152,13 +196,8 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 | Warehouse Associate | wastequip | Mt Sterling, KY |  | 2026-11-24 | [Apply](https://wastequip.wd108.myworkdayjobs.com/en-US/wastequip_careers/job/Mt-Sterling-KY/Warehouse-Associate_R-101529-1) |
 | CDL Driver - Rear Load (Daytona, FL) | fccenvironmental | Daytona, FL |  | 2026-11-24 | [Apply](https://fccenvironmental.wd12.myworkdayjobs.com/en-US/fcc_environmental_services/job/Daytona-FL/CDL-Driver---Rear-Load--Daytona--FL-_JR103375) |
 | Seasonal Warehouse Associate II | belron | ONTARIO, CA |  | 2026-11-24 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/ONTARIO-CA/Seasonal-Warehouse-Associate-II_JR77641) |
-| Warehouse Associate | texas-original | Bastrop, Texas |  | 2026-11-24 | [Apply](https://jobs.lever.co/texas-original/8b353636-5a44-43ba-8701-eba303b74ee9) |
 | Delivery Driver | try-picnic | Las Vegas, NV |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/try-picnic/jobs/8959277002) |
 | Shuttle Driver, Part-Time | thesciongroupllc | The Lodge at RIT, Henrietta, New York, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8961365002) |
-| Warehouse Associate | sunsrce | Chapmanville, WV 25508 |  | 2026-11-24 | [Apply](https://jobs.lever.co/sunsrce/36cbaa4d-0dcc-4c35-85ec-e3794d95a069) |
-| Warehouse Associate/Truck Driver | REXEL | Manchester, NH, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/REXEL1/744000163550939) |
-| Warehouse Associate | REXEL | Lakewood, NJ, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/REXEL1/744000163552399) |
-| Truck Driver | REXEL | Woodbury, NJ, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/REXEL1/744000163552895) |
 | Environmental Driver Specialist CDLB | Enviri | Salt Lake City, UT, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/EnviriCorporation/744000163551498) |
 | Environmental Driver Specialist CDLA | Enviri | Fresno, CA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/EnviriCorporation/744000163551619) |
 | CDL B Driver | Enviri | Des Moines, IA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/EnviriCorporation/744000163554645) |
@@ -166,45 +205,6 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 | Delivery Driver | cssmerge | Boulder, CO |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8959278002) |
 | CDL Driver | Welch Packaging Group | Lebanon, OH |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689397) |
 | Warehouse Associate - Animal Health International | pattersoncompanies | Garden City, KS |  | 2026-11-24 | [Apply](https://pattersoncompanies.wd501.myworkdayjobs.com/en-US/pdco/job/Garden-City-KS/Warehouse-Associate---Animal-Health-International_R111711) |
-| Warehouse Associate - Transport Unloader | pbv | Harrisburg, NC |  | 2026-11-24 | [Apply](https://pbv.wd503.myworkdayjobs.com/en-US/external/job/Harrisburg-NC/Warehouse-Associate---Transport-Unloader_R-2026-4900) |
-| Shipping/Receiving Clerk | menasha | Alsip, Illinois |  | 2026-11-24 | [Apply](https://menasha.wd12.myworkdayjobs.com/en-US/menashacorp/job/Alsip-Illinois/Shipping-Receiving-Clerk_R16925-1) |
-| Warehouse Material Handler (584) | abcsupply | 584 East Orange, NJ |  | 2026-11-24 | [Apply](https://abcsupply.wd1.myworkdayjobs.com/en-US/abcsupplycareers/job/584-East-Orange-NJ/Warehouse-Material-Handler--584-_68707) |
-| Warehouse Material Handler | abcsupply | 192 Mesa, AZ |  | 2026-11-24 | [Apply](https://abcsupply.wd1.myworkdayjobs.com/en-US/abcsupplycareers/job/192-Mesa-AZ/Warehouse-Material-Handler_68791) |
-| Manufacturing Deco Material Handler (Forklift) - Day Shift | amcor | RPSNA Jackson TN |  | 2026-11-24 | [Apply](https://amcor.wd5.myworkdayjobs.com/en-US/amcor_external_career_site/job/RPSNA-Jackson-TN/Manufacturing-Deco-Material-Handler--Forklift----Day-Shift_REQ_99057) |
-| Residential Warehouse Trader Analyst | barclays | New York, 745 7th Avenue |  | 2026-11-24 | [Apply](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/New-York-745-7th-Avenue/Residential-Warehouse-Trader-Analyst_JR-0000102369) |
-| Warehouse Supervisor | Expeditors | San Diego, CA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000163541749) |
-| Warehouse Operator | fairlife | Goodyear, Arizona, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/fairlife/jobs/5308705007) |
-| Driver/Messenger (Disability Services) - New York City | AHRCNYC1 | New York, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AHRCNYC1/744000163545312) |
-| Class A CDL Truck Driver (4-Day Schedule / Home Daily) – Mankato, MN | GPC (Gillette Pepsi Companies) | North Mankato, MN |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678747) |
-| Forklift Operator - 3rd Shift - Casa Grande, AZ | abbott | United States - Arizona - Casa Grande |  | 2026-11-24 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Arizona---Casa-Grande/Forklift-Operator---3rd-Shift---Casa-Grande--AZ_31164548-1) |
-| Warehouse Manager | troc | Darien, IL 60561 |  | 2026-11-24 | [Apply](https://troc.wd501.myworkdayjobs.com/en-US/troc_external/job/Darien-IL-60561/Warehouse-Manager_JR102368) |
-| Driver | bnl | Upton, NY |  | 2026-11-24 | [Apply](https://bnl.wd1.myworkdayjobs.com/en-US/externa/job/Upton-NY/Driver_JR102829) |
-| CDL Driver - Automated Side Loader (Boynton Beach, FL) | fccenvironmental | Boynton Beach, FL |  | 2026-11-24 | [Apply](https://fccenvironmental.wd12.myworkdayjobs.com/en-US/fcc_environmental_services/job/Boynton-Beach-FL/CDL-Driver---Automated-Side-Loader--Boynton-Beach--FL-_JR103342) |
-| CDL Driver- Automated side Loader (Omaha, NE) | fccenvironmental | Omaha, NE |  | 2026-11-24 | [Apply](https://fccenvironmental.wd12.myworkdayjobs.com/en-US/fcc_environmental_services/job/Omaha-NE/CDL-Driver--Automated-side-Loader--Omaha--NE-_JR103195) |
-| Material Handler 3 - Shipping - 2nd shift | bluescopenac | TN-Jackson |  | 2026-11-24 | [Apply](https://bluescopenac.wd5.myworkdayjobs.com/en-US/bnacareers/job/TN-Jackson/Material-Handler-3---Shipping---2nd-shift_REQ-3568-1) |
-| Warehouse Associate I - First Shift | pattersoncompanies | Mount Joy, PA |  | 2026-11-24 | [Apply](https://pattersoncompanies.wd501.myworkdayjobs.com/en-US/pdco/job/Mount-Joy-PA/Warehouse-Associate-I---First-Shift_R111872) |
-| Truck Driver (DOT) | sibelco | Kansas City |  | 2026-11-24 | [Apply](https://sibelco.wd502.myworkdayjobs.com/en-US/sibelco-careers/job/Kansas-City/Truck-Driver--DOT-_J018597) |
-| Warehouse II | atd | Byron, GA |  | 2026-11-24 | [Apply](https://atd.wd1.myworkdayjobs.com/en-US/american_tire_distributors/job/Byron-GA/Warehouse-II_R36455-1) |
-| Regional Distribution Center - Delivery Driver (non CDL) | atd | Shafter, CA |  | 2026-11-24 | [Apply](https://atd.wd1.myworkdayjobs.com/en-US/american_tire_distributors/job/Shafter-CA/Regional-Distribution-Center---Delivery-Driver--non-CDL-_R36772-1) |
-| Dispatcher | jbhunt | Lowell, AR - JB Hunt Corporate B & C |  | 2026-11-24 | [Apply](https://jbhunt.wd501.myworkdayjobs.com/en-US/careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Dispatcher_00653725) |
-| Shipping Equipment Operator | bobsdf | DC4 Piscataway NJ |  | 2026-11-24 | [Apply](https://bobsdf.wd1.myworkdayjobs.com/en-US/bobs_careers/job/DC4-Piscataway-NJ/Shipping-Equipment-Operator_R-33310) |
-| Blood Collection Mobile Driver | americanredcross | Burbank, CA |  | 2026-11-24 | [Apply](https://americanredcross.wd1.myworkdayjobs.com/en-US/american_red_cross_careers/job/Burbank-CA/Blood-Collection-Mobile-Driver_RC92757) |
-| Part-Time Courier | americanredcross | Chicago, IL |  | 2026-11-24 | [Apply](https://americanredcross.wd1.myworkdayjobs.com/en-US/american_red_cross_careers/job/Chicago-IL/Part-Time-Courier_RC92729) |
-| Warehouse Material Handler (1323) | abcsupply | 1323 Los Angeles, CA |  | 2026-11-24 | [Apply](https://abcsupply.wd1.myworkdayjobs.com/en-US/abcsupplycareers/job/1323-Los-Angeles-CA/Warehouse-Material-Handler--1323-_68785) |
-| Warehouse Associate I / 1st Shift! | belron | Nanticoke, PA |  | 2026-11-24 | [Apply](https://belron.wd3.myworkdayjobs.com/en-US/safelite_careers/job/Nanticoke-PA/Warehouse-Associate-I---1st-Shift-_JR77633) |
-| Manufacturing Deco Material Handler (Forklift) - Night Shift | amcor | RPSNA Jackson TN |  | 2026-11-24 | [Apply](https://amcor.wd5.myworkdayjobs.com/en-US/amcor_external_career_site/job/RPSNA-Jackson-TN/Manufacturing-Deco-Material-Handler--Forklift----Night-Shift_REQ_98673) |
-| Executive Security Driver | cat | Irving, Texas |  | 2026-11-24 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Executive-Security-Driver_R0000406913) |
-| Overnight Forklift Driver Full Time | bjswholesaleclub | Toms River, NJ #0100 |  | 2026-11-24 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Toms-River-NJ-0100/Overnight-Forklift-Driver-Full-Time_R262916) |
-| Driver I CDL | freseniusmedicalcare | Catano, PR, USA |  | 2026-11-24 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Catano-PR-USA/Driver-I-CDL_R0278756) |
-| (USA) Senior Manager, Supply Chain Management - Air Freight Pricing | Walmart | (USA) Transportation Home Office AR BENTONVILLE Home Office |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Transportation-Home-Office-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Senior-Manager--Supply-Chain-Management_R-2669713-1) |
-| Shipping Handler - 1st Shift | CVS Health | IL - Mount Prospect |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Mount-Prospect/Shipping-Handler---1st-Shift_R1101641) |
-| Courier | Labcorp | Pasadena CA |  | 2026-11-24 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Pasadena-CA/Courier_2639985) |
-| Warehouse Associate | Labcorp | Tampa FL |  | 2026-11-24 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Tampa-FL/Warehouse-Associate_2635688) |
-| Warehouse Associate | wheelpros | 5217 NE 158th Ave, Portland, OR 97230 |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/wheelpros/jobs/4522105009) |
-| CDL A Driver | TOMRA | Rochester, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Tomra/744000163538439) |
-| CDL A Truck Driver | techo-bloc | Fort Wayne, IN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/techo-bloc/744000163514499) |
-| Transportation Coordinator (Driver) - Part-Time | SpectrumRetirementCommunities | Hilliard, Ohio, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/SpectrumRetirementCommunities/3743990017063437) |
-| Logistics Coordinator | pokemoncareers | Bellevue, Washington, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/pokemoncareers/jobs/8208860003) |
 <!-- JOBS_TABLE_END -->
 
 <details>
