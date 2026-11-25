@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>22,332</h3><sub>open trucking and logistics jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>21,492</h3><sub>open trucking and logistics jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 04:17 UTC</sub>
+<sub>Snapshot 2026-11-25 08:18 UTC</sub>
 
 </div>
 
@@ -50,24 +50,24 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 
 ## Open jobs
 
-**22,332 open trucking and logistics jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**21,492 open trucking and logistics jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 08:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Warehouse Pickers | AlphabeInsightInc | Peoria, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163618899) |
 | Delivery Driver(02817) - 11 E. Jackson St. | Domino's | Morton, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163563737) |
 | Delivery Driver (4276) | Domino's | Warrenton, VA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163564207) |
 | Delivery Driver(08301) - 633 E. University Dr | Domino's | Carson, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163564570) |
 | Store Driver | advanceauto | 8730 Fidelity Blvd, Raleigh, NC 27617 |  | 2026-11-25 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/8730-Fidelity-Blvd-Raleigh-NC-27617/Store-Driver_R-0620728) |
 | Store Driver | advanceauto | 8730 Fidelity Blvd, Raleigh, NC 27617 |  | 2026-11-25 | [Apply](https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/8730-Fidelity-Blvd-Raleigh-NC-27617/Store-Driver_R-0620729) |
+| Part-Time Home Delivery Driver | momsmeals | Wichita, KS |  | 2026-11-24 | [Apply](https://jobs.lever.co/momsmeals/709a4718-7b75-4579-aa5f-8cad7190dcb2) |
 | Warehouse Associate | Pace Transportation | Charlestown, IN, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/newlifetransport/job/oVZ9Bfwo) |
 | Warehouse Associate/Customer Pickup Tech | HOM Furniture, Inc. | Plymouth, MN |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692632) |
 | Shipping and Receiving Specialist | Ivan Ware & Son Inc | Louisville, KY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2487220) |
 | Warehouse Shipping Processor | Meyer Distributing | Hugo, MN |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4184809) |
 | Warehouse Inventory Specialist | Meyer Distributing | Jasper, IN |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689667) |
 | Driver | Marsh Furniture Company | Greensboro, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3035265) |
-| Cookie Delivery Driver | insomniacookies | Phoenix AZ |  | 2026-11-24 | [Apply](https://jobs.lever.co/insomniacookies/b310918d-5f88-4ec6-9f3b-3e21d4664e85) |
-| Shipping & Receiving Associate | gatorbio | Palo Alto, CA | $20-25/hr | 2026-11-24 | [Apply](https://jobs.lever.co/gatorbio/88cfecff-6df7-4755-a2e1-723291b010f4) |
 | Warehouse Logistics Associate | NEFCO | Corpus Christi, TX |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689378) |
 | Delivery Driver | NEFCO | New Albany, OH |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689470) |
 | Shipping and Receiving Clerk | Kansas City Marriott Downtown | Kansas City, MO |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692668) |
@@ -145,6 +145,8 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 | CDL A Truck Driver | techo-bloc | Fort Wayne, IN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/techo-bloc/744000163514499) |
 | Transportation Coordinator (Driver) - Part-Time | SpectrumRetirementCommunities | Hilliard, Ohio, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/SpectrumRetirementCommunities/3743990017063437) |
 | Logistics Coordinator | pokemoncareers | Bellevue, Washington, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/pokemoncareers/jobs/8208860003) |
+| Home Delivery Driver | momsmeals | Imperial, PA |  | 2026-11-24 | [Apply](https://jobs.lever.co/momsmeals/def51026-d55c-409e-8012-580a2dcfbc9b) |
+| Home Delivery Driver | momsmeals | Cheektowaga, NY |  | 2026-11-24 | [Apply](https://jobs.lever.co/momsmeals/41061e5b-3121-48f0-aa7b-87c73554fbd9) |
 | Summer 2027 Inventory, Facility, and Logistics Internship | pacificfusion | Los Lunas, NM |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4517332009) |
 | Raw Materials Warehouse Worker - 2nd Shift | Red Wing Shoe Company | Red Wing, MN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000163530061) |
 | Forklift Operator - 3rd Shift | monsterenergy | USA - Rialto, CA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/monsterenergy/jobs/4487295009) |
@@ -203,8 +205,6 @@ Looking for work as a driver, warehouse worker, or logistics professional? This 
 | Tow Truck Driver 4 Car Rollback - Class A or B License - 020 | copart | US TX CCRF Trucks 502 |  | 2026-11-24 | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/US-TX-CCRF-Trucks-502/Tow-Truck-Driver-4-Car-Rollback---Class-A-or-B-License---020_JR112908) |
 | Material Handler, CAR-T Warehouse Operations | bristolmyerssquibb | Summit West - NJ - US |  | 2026-11-24 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Summit-West---NJ---US/Material-Handler--CAR-T-Warehouse-Operations_R1608852) |
 | Shipping & Receiving Clerk III - Electric Power | cat | Alpharetta, Georgia |  | 2026-11-24 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Alpharetta-Georgia/Shipping---Receiving-Clerk-III---Electric-Power_R0000406640) |
-| Warehouse Fulfillment Specialist Part Time | bjswholesaleclub | Haverhill, MA #0189 |  | 2026-11-24 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Haverhill-MA-0189/Warehouse-Fulfillment-Specialist-Part-Time_R263602-1) |
-| Transportation City Driver - Dayton, TX | Walmart | (USA) TX DAYTON 07135 DISPATCH TRUCKING |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-DAYTON-07135-DISPATCH-TRUCKING/Transportation-City-Driver---Dayton--TX_R-2680988) |
 <!-- JOBS_TABLE_END -->
 
 <details>
